@@ -18,4 +18,12 @@ Bash shell
 
 # Usage
 * Linux
-Clone the repository:
+1. Clone the repository:
+git clone https://github.com/NikamSugat/Port-Scanner.git
+
+2. Changing Directory using Command:
+cd simple-port-scanner
+
+3. Run the port scanner script:
+./port_scanner.sh <target_host>
+{Replace <target_host> with the IP address or hostname of the target.}
