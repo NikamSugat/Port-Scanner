@@ -26,4 +26,5 @@ cd simple-port-scanner
 
 3. Run the port scanner script:
 ./port_scanner.sh <target_host>
-{Replace <target_host> with the IP address or hostname of the target.}
+
+Replace <target_host> with the IP address or hostname of the target.
