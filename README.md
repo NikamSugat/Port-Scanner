@@ -23,9 +23,11 @@ Bash shell
 git clone https://github.com/NikamSugat/Port-Scanner.git
 
 2. Changing Directory using Command:
+
 cd simple-port-scanner
 
 3. Run the port scanner script:
+
 ./port_scanner.sh <target_host>
 
 Replace <target_host> with the IP address or hostname of the target.
@@ -33,20 +35,22 @@ Replace <target_host> with the IP address or hostname of the target.
 # Windows
 
 1. Clone the repository or download the ZIP file and extract it:
-   ```bash
    git clone https://github.com/NikamSugat/Port-Scanner.git
 
 1. Navigate to the script directory:
+
 cd simple-port-scanner
 
 * 2.Using Git Bash:
 Run the port scanner script using Git Bash, which is a Bash environment provided by Git for Windows:
+
 bash port_scanner.sh <target_host>
 
 Replace <target_host> with the IP address or hostname of the target.
 
 * Using Windows Subsystem for Linux (WSL):
 If you have WSL installed, navigate to the script directory in the WSL terminal and execute the script:
+
 ./port_scanner.sh <target_host>
 
 Replace <target_host> with the IP address or hostname of the target.
